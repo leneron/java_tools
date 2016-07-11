@@ -1,4 +1,4 @@
-package tools;
+package tools.worm;
 
 import org.junit.Test;
 
